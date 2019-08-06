@@ -7,4 +7,4 @@
 
 
 
-![alt text](https://raw.githubusercontent.com/AnBowell/SimFarm2030/master/Example_Images/Monthly_Temps_final.gif)
+![alt text](https://raw.githubusercontent.com/AnBowell/SimFarm2030/master/Example_Images/Monthly_Temps_final.gif){:height="50%" width="50%"}

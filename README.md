@@ -6,4 +6,9 @@
 #### Here are some example images from the projet so far. 
 
 
-<img src="https://raw.githubusercontent.com/AnBowell/SimFarm2030/master/Example_Images/month_temps.gif" width="400" height="790">
+
+First Header | Second Header
+------------ | -------------
+<img src="https://raw.githubusercontent.com/AnBowell/SimFarm2030/master/Example_Images/month_temps.gif" width="500" height="750">| <img src="https://raw.githubusercontent.com/AnBowell/SimFarm2030/master/Example_Images/month_temps.gif" width="500" height="750">
+
+

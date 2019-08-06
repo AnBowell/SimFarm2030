@@ -6,6 +6,4 @@
 #### Here are some example images from the projet so far. 
 
 
-![Animation Of Average Temp for a year](https://raw.githubusercontent.com/AnBowell/SimFarm2030/master/Example_Images/month_temps.gif&s=200)
-
-
+<img src="https://raw.githubusercontent.com/AnBowell/SimFarm2030/master/Example_Images/month_temps.gif" width="400" height="790">

@@ -22,8 +22,10 @@ Plot Of Average Monthly Temp | Plot Of Daily Rainfall
 ### Here is a flow chart explaining the process of adapting the FACYnation codes (Clickable links only available as PDF found at bottom of page)
 
 
-<img src="https://raw.githubusercontent.com/AnBowell/SimFarm2030/master/Example_Images/FlowChart/f2s.png" width="500" height="600">
+<img src="https://raw.githubusercontent.com/AnBowell/SimFarm2030/master/Example_Images/FlowChart/f2s.png">
 
-src="https://raw.githubusercontent.com/AnBowell/SimFarm2030/master/Example_Images/FlowChart/FACY2SIM.pdf" 
+
+https://raw.githubusercontent.com/AnBowell/SimFarm2030/master/Example_Images/FlowChart/FACY2SIM.pdf
+
 
 

@@ -11,7 +11,7 @@
 
 
 
-#### Here are some example images from the projet so far. 
+#### Here are some example images from the project's data so far. 
 
 
 

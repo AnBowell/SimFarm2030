@@ -1,13 +1,12 @@
 
 # SimFarm2030
 
-### This GitHub contains python scripts which will allow the reading and plotting of netCDF4 files. More to come in the future.
-
+### This GitHub contains python scripts which will allow the reading and plotting of netCDF4 files as well as adapted FACYNation codes 
 
 - [x] Create Python script to read netCDF4 files
 - [x] Create Python scipt to plot the data
 - [ ] Collect ALL data needed
-- [ ] Start adapting FACYNation codes
+- [x] Start adapting FACYNation codes
 
 
 

@@ -6,7 +6,7 @@
 - [x] Create Python script to read netCDF4 files
 - [x] Create Python scipt to plot the data
 - [ ] Collect ALL data needed
-- [ ] Start adapting FACYNation codes
+- [x] Start adapting FACYNation codes
 
 
 

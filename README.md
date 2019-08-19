@@ -11,6 +11,14 @@ Andrew To Do
 - [x] Create Python scipt to plot the data 
 - [ ] Collect ALL data needed       
 - [x] Start adapting FACYNation codes 
+- [x] Train model on 5 regions and predict on a sixth
+
+
+To Do
+- [ ] Model AOT40 over the entire county. Can then be used as an input to yield model (3-D Guassian)
+- [ ] Change stan model from monthly rain/temp inputs to daily
+- [ ] Define a weighting for months running up to harvest    
+- [ ] Compare test site to performance over the UK.
 
 
 

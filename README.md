@@ -8,10 +8,10 @@
 
 Andrew To Do  | Will To Do
 ------------ | -------------
-- [x] Create Python script to read netCDF4 files|  - [x] Create Python script to read netCDF4 files
-- [x] Create Python scipt to plot the data|   - [x] Create Python script to read netCDF4 files
-- [ ] Collect ALL data needed|         - [x] Create Python script to read netCDF4 files
-- [x] Start adapting FACYNation codes|- [x] Create Python script to read netCDF4 files
+- [x] Create Python script to read netCDF4 files|   - [x] Create Python script to read netCDF4 files
+- [x] Create Python scipt to plot the data |   - [x] Create Python script to read netCDF4 files
+- [ ] Collect ALL data needed |         - [x] Create Python script to read netCDF4 files
+- [x] Start adapting FACYNation codes |- [x] Create Python script to read netCDF4 files
 
 
 

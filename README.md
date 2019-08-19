@@ -3,10 +3,15 @@
 
 ### This GitHub contains python scripts which will allow the reading and plotting of netCDF4 files as well as adapted FACYNation codes 
 
-- [x] Create Python script to read netCDF4 files
-- [x] Create Python scipt to plot the data
-- [ ] Collect ALL data needed
-- [x] Start adapting FACYNation codes
+
+
+
+Andrew To Do  | Will To Do
+------------ | -------------
+- [x] Create Python script to read netCDF4 files|  - [x] Create Python script to read netCDF4 files
+- [x] Create Python scipt to plot the data|   - [x] Create Python script to read netCDF4 files
+- [ ] Collect ALL data needed|         - [x] Create Python script to read netCDF4 files
+- [x] Start adapting FACYNation codes|- [x] Create Python script to read netCDF4 files
 
 
 
